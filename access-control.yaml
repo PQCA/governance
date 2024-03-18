@@ -1,0 +1,8 @@
+teams:
+repositories:
+- name: .github
+  visibility: public
+- name: governance
+  visibility: public
+- name: TAC
+  visibility: public

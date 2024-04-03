@@ -1,11 +1,12 @@
 teams:
 - name: TAC
   maintainers:
-  - ryjones
+  - brian-jarvis-aws
   members:
   - ashman-p
-  - brian-jarvis-aws
   - maximilien
+  - sam-stanwyck
+  - sophieschmieg
   - thb-sb
 repositories:
 - name: .github

@@ -1,4 +1,12 @@
 teams:
+- name: TAC
+  maintainers:
+  - ryjones
+  members:
+  - ashman-p
+  - brian-jarvis-aws
+  - maximilien
+  - thb-sb
 repositories:
 - name: .github
   visibility: public

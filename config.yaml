@@ -1,4 +1,12 @@
 teams:
+- name: LF-Employees
+  maintainers:
+  - hartm
+  - mkdolan
+  - Naomi-Wash
+  - ryjones
+  - tbenzies
+  - thelinuxfoundation
 - name: TAC
   maintainers:
   - brian-jarvis-aws

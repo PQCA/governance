@@ -18,8 +18,18 @@ teams:
   - thb-sb
 repositories:
 - name: .github
+  teams:
+    TAC: maintain
+  visibility: public
+- name: artwork
+  teams:
+    TAC: maintain
   visibility: public
 - name: governance
+  teams:
+    TAC: maintain
   visibility: public
 - name: TAC
+  teams:
+    TAC: maintain
   visibility: public

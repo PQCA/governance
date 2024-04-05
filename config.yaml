@@ -1,5 +1,5 @@
 teams:
-- name: LF-Employees
+- name: lf-employees
   maintainers:
   - hartm
   - mkdolan
@@ -7,7 +7,7 @@ teams:
   - ryjones
   - tbenzies
   - thelinuxfoundation
-- name: TAC
+- name: tac
   maintainers:
   - brian-jarvis-aws
   members:
@@ -19,17 +19,17 @@ teams:
 repositories:
 - name: .github
   teams:
-    TAC: maintain
+    tac: maintain
   visibility: public
 - name: artwork
   teams:
-    TAC: maintain
+    tac: maintain
   visibility: public
 - name: governance
   teams:
-    TAC: maintain
+    tac: maintain
   visibility: public
 - name: TAC
   teams:
-    TAC: maintain
+    tac: maintain
   visibility: public

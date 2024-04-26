@@ -16,6 +16,11 @@ teams:
   - sam-stanwyck
   - sophieschmieg
   - thb-sb
+- name: wg-security-members
+  maintainers:
+  - Naomi-Wash
+  members:
+  - ryjones
 repositories:
 - name: .github
   teams:
@@ -32,4 +37,9 @@ repositories:
 - name: TAC
   teams:
     tac: maintain
+  visibility: public
+- name: wg-security
+  teams:
+    tac: maintain
+    wg-security-members: maintain
   visibility: public

@@ -16,6 +16,11 @@ teams:
   - sam-stanwyck
   - sophieschmieg
   - thb-sb
+- name: wg-algorithms-members
+  maintainers:
+  - Naomi-Wash
+  members:
+  - ryjones
 - name: wg-security-members
   maintainers:
   - Naomi-Wash
@@ -37,6 +42,11 @@ repositories:
 - name: TAC
   teams:
     tac: maintain
+  visibility: public
+- name: wg-algorithms
+  teams:
+    tac: maintain
+    wg-algorithms-members: maintain
   visibility: public
 - name: wg-security
   teams:

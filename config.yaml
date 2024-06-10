@@ -49,6 +49,10 @@ repositories:
     tac: maintain
     wg-algorithms-members: maintain
   visibility: public
+- name: documentation
+  teams:
+    tac: maintain
+  visibility: public
 - name: wg-security
   teams:
     tac: maintain

@@ -40,6 +40,10 @@ repositories:
   teams:
     tac: maintain
   visibility: public
+- name: landscape
+  teams:
+    lf-employees: maintain
+  visibility: public
 - name: TAC
   teams:
     tac: maintain

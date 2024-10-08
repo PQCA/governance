@@ -3,9 +3,7 @@ teams:
   maintainers:
   - hartm
   - mkdolan
-  - Naomi-Wash
   - ryjones
-  - tbenzies
   - thelinuxfoundation
 - name: tac
   maintainers:
@@ -15,7 +13,7 @@ teams:
   - maximilien
   - sam-stanwyck
   - sophieschmieg
-  - thb-sb
+  - zadlg
   - planetf1
 - name: wg-algorithms-members
   maintainers:

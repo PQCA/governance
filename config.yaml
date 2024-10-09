@@ -5,6 +5,8 @@ teams:
   - mkdolan
   - ryjones
   - thelinuxfoundation
+  members:
+  - kennypaul
 - name: tac
   maintainers:
   - brian-jarvis-aws

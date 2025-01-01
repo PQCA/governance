@@ -19,14 +19,13 @@ teams:
   - planetf1
 - name: wg-algorithms-members
   maintainers:
-  - Naomi-Wash
-  members:
-  - ryjones
+  - KennyPaul
 - name: wg-security-members
   maintainers:
-  - Naomi-Wash
-  members:
-  - ryjones
+  - KennyPaul
+- name: wg-tooling-members
+  maintainers:
+  - KennyPaul
 repositories:
 - name: .github
   teams:
@@ -61,4 +60,9 @@ repositories:
   teams:
     tac: maintain
     wg-security-members: maintain
+  visibility: public
+- name: wg-tooling
+  teams:
+    tac: maintain
+    wg-tooling-members: maintain
   visibility: public

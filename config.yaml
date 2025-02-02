@@ -17,6 +17,7 @@ teams:
   - sophieschmieg
   - SWilson4
   - planetf1
+  - KennyPaul
 - name: wg-algorithms-members
   maintainers:
   - KennyPaul
@@ -26,6 +27,7 @@ teams:
 - name: wg-tooling-members
   maintainers:
   - KennyPaul
+  - n1ckl0sk0rtge
 repositories:
 - name: .github
   teams:

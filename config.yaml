@@ -17,7 +17,6 @@ teams:
   - sophieschmieg
   - SWilson4
   - planetf1
-  - KennyPaul
 - name: wg-algorithms-members
   maintainers:
   - KennyPaul
@@ -49,6 +48,7 @@ repositories:
 - name: TAC
   teams:
     tac: maintain
+    lf-employees: maintain
   visibility: public
 - name: wg-algorithms
   teams:

@@ -11,11 +11,12 @@ teams:
   maintainers:
   - brian-jarvis-aws
   members:
+  - SWilson4
   - ashman-p
   - maximilien
-  - sophieschmieg
-  - SWilson4
   - planetf1
+  - sophieschmieg
+  - ydoroz
 - name: wg-algorithms-members
   maintainers:
   - KennyPaul

@@ -6,7 +6,7 @@ teams:
   - ryjones
   - thelinuxfoundation
   members:
-  - KennyPaul
+  - Naomi-Wash
 - name: tac
   maintainers:
   - brian-jarvis-aws
@@ -19,14 +19,20 @@ teams:
   - ydoroz
 - name: wg-algorithms-members
   maintainers:
-  - KennyPaul
+  - ryjones
+  members:
+  - Naomi-Wash
 - name: wg-security-members
   maintainers:
-  - KennyPaul
+  - ryjones
+  members:
+  - Naomi-Wash
 - name: wg-tooling-members
   maintainers:
-  - KennyPaul
+  - ryjones
   members:
+  - Naomi-Wash
+  #members:
   - n1ckl0sk0rtge
 repositories:
 - name: .github

@@ -19,20 +19,14 @@ teams:
   - ydoroz
 - name: wg-algorithms-members
   maintainers:
-  - ryjones
-  members:
   - Naomi-Wash
 - name: wg-security-members
   maintainers:
-  - ryjones
-  members:
   - Naomi-Wash
 - name: wg-tooling-members
   maintainers:
-  - ryjones
-  members:
   - Naomi-Wash
-  #members:
+  members:
   - n1ckl0sk0rtge
 repositories:
 - name: .github

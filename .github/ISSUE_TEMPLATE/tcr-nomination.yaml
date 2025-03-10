@@ -1,6 +1,6 @@
 name: PQCA TCR Nomination
 description: Nominate a Technical Community Representative (TCR) for the Post Quantum Cryptography Alliance (PQCA).
-title: 'NOMINATE Technical Community Representative'
+title: 'NOMINATION Technical Community Representative'
 body:
 - type: markdown
   attributes:

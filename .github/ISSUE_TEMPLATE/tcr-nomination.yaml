@@ -1,0 +1,42 @@
+name: PQCA TCR Nomination
+description: Nominate a Technical Community Representative (TCR) for the Post Quantum Cryptography Alliance (PQCA).
+title: 'NOMINATE Technical Community Representative'
+body:
+- type: markdown
+  attributes:
+    value: |
+      Please use this form to nominate yourself for the PQCA Technical Community Representative.  If you would like 
+      to nominate someone else, please make sure you have their consent.
+      
+      This representative will be elected by members of the technical steering committees (TSCs) of 
+      Technical Projects and qualified for nomination by each of the Governing Board and the
+      TAC. In the event of a vacancy, the Governing Board may appoint the candidate with the
+      next highest vote total in the most recent election to serve the remainder of the term.
+
+      Nomination Criteria: Extremely knowledgable about PQC.
+- type: textarea
+  id: Name
+  attributes: 
+    label: Name
+    description: "Full name and GitHub handle of the nominee"
+  validations:
+    required: true
+- type: textarea
+  id: Organization
+  attributes: 
+    label: Organization
+    description: "Organizational Affiliation"
+  validations:
+    required: true
+- type: textarea
+  id: social
+  attributes: 
+    label: Social Handles
+    description: "Please include your LinkedIn profile or other public facing online presences"
+- type: textarea
+  id: motivation
+  attributes: 
+    label: Motivational & Additional Information
+    description: "Why do you want to serve as the Technical Community Representative (TCR)?"
+  validations:
+    required: true

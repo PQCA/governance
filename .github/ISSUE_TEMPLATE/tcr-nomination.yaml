@@ -11,9 +11,7 @@ body:
       This representative will be elected by members of the technical steering committees (TSCs) of 
       Technical Projects and qualified for nomination by each of the Governing Board and the
       TAC. In the event of a vacancy, the Governing Board may appoint the candidate with the
-      next highest vote total in the most recent election to serve the remainder of the term.
-
-      Nomination Criteria: Extremely knowledgable about PQC.
+      next highest vote total in the most recent election to serve the remainder of the term
 - type: textarea
   id: Name
   attributes: 

@@ -7,6 +7,7 @@ teams:
   - thelinuxfoundation
   members:
   - Naomi-Wash
+  - balaji-ethirajulu
 - name: tac
   maintainers:
   - brian-jarvis-aws

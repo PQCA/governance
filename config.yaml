@@ -1,4 +1,9 @@
 teams:
+- name: cbomkit-maintainers
+  maintainers:
+  - n1ckl0sk0rtge
+  members:
+  - san-zrl
 - name: lf-employees
   maintainers:
   - hartm
@@ -38,13 +43,21 @@ repositories:
   teams:
     tac: maintain
   visibility: public
-- name: governance
+- name: cbomkit-action
+  teams:
+    cbomkit-maintainers: maintain
+  visibility: public
+- name: documentation
   teams:
     tac: maintain
   visibility: public
 - name: landscape
   teams:
     lf-employees: maintain
+  visibility: public
+- name: governance
+  teams:
+    tac: maintain
   visibility: public
 - name: TAC
   teams:
@@ -55,10 +68,6 @@ repositories:
   teams:
     tac: maintain
     wg-algorithms-members: maintain
-  visibility: public
-- name: documentation
-  teams:
-    tac: maintain
   visibility: public
 - name: wg-security
   teams:

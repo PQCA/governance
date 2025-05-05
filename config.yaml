@@ -47,6 +47,10 @@ repositories:
   teams:
     cbomkit-maintainers: maintain
   visibility: public
+- name: cbomkit-theia
+  teams:
+    cbomkit-maintainers: maintain
+  visibility: public
 - name: documentation
   teams:
     tac: maintain

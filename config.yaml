@@ -43,6 +43,10 @@ repositories:
   teams:
     tac: maintain
   visibility: public
+- name: cbomkit
+  teams:
+    cbomkit-maintainers: maintain
+  visibility: public
 - name: cbomkit-action
   teams:
     cbomkit-maintainers: maintain
@@ -62,6 +66,10 @@ repositories:
 - name: governance
   teams:
     tac: maintain
+  visibility: public
+- name: sonar-cryptography
+  teams:
+    cbomkit-maintainers: maintain
   visibility: public
 - name: TAC
   teams:

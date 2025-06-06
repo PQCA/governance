@@ -7,7 +7,6 @@ teams:
 - name: lf-employees
   maintainers:
   - hartm
-  - mkdolan
   - ryjones
   - thelinuxfoundation
   members:

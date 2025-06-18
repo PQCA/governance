@@ -55,6 +55,10 @@ repositories:
   teams:
     cbomkit-maintainers: admin
   visibility: public
+- name: cbomkit-lib
+  teams:
+    cbomkit-maintainers: admin
+  visibility: public
 - name: cbomkit-theia
   teams:
     cbomkit-maintainers: admin

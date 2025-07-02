@@ -39,6 +39,10 @@ teams:
   - brian-jarvis-aws
   members:
   - AdityaKoranga
+  - balaji-ethirajulu
+  - mkannwischer
+  - n1ckl0sk0rtge
+  - praveksharma
 repositories:
 - name: .github
   teams:

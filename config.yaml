@@ -10,8 +10,7 @@ teams:
   - ryjones
   - thelinuxfoundation
   members:
-  - Naomi-Wash
-  - balaji-ethirajulu
+  - christinaharter
 - name: tac
   maintainers:
   - brian-jarvis-aws
@@ -39,7 +38,7 @@ teams:
   - brian-jarvis-aws
   members:
   - AdityaKoranga
-  - balaji-ethirajulu
+  - christinaharter
   - mkannwischer
   - n1ckl0sk0rtge
   - praveksharma

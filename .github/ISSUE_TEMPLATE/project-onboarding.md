@@ -1,3 +1,12 @@
+---
+name: PQCA Project Onboarding Checklist
+about: Checklist for new projects
+title: "[CHECKLIST]: PROJECT NAME"
+labels: "project-checklist"
+assignees: ''
+
+---
+
 # **PQCA: Project Onboarding Checklist**
 
 *For each new project being onboarded, copy this template and add under PQCA->governance repo as a new issue; assign to Ry, PM, and project maintainers.*

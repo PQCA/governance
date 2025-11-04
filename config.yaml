@@ -1,9 +1,4 @@
 teams:
-- name: cbomkit-maintainers
-  maintainers:
-  - n1ckl0sk0rtge
-  members:
-  - san-zrl
 - name: lf-employees
   maintainers:
   - hartm
@@ -51,26 +46,6 @@ repositories:
   teams:
     tac: maintain
   visibility: public
-- name: cbomkit
-  teams:
-    cbomkit-maintainers: admin
-  visibility: public
-- name: cbomkit-action
-  teams:
-    cbomkit-maintainers: admin
-  visibility: public
-- name: cbomkit-lib
-  teams:
-    cbomkit-maintainers: admin
-  visibility: public
-- name: cbomkit-pipeline
-  teams:
-    cbomkit-maintainers: admin
-  visibility: public
-- name: cbomkit-theia
-  teams:
-    cbomkit-maintainers: admin
-  visibility: public
 - name: documentation
   teams:
     tac: maintain
@@ -82,10 +57,6 @@ repositories:
 - name: governance
   teams:
     tac: maintain
-  visibility: public
-- name: sonar-cryptography
-  teams:
-    cbomkit-maintainers: admin
   visibility: public
 - name: TAC
   teams:

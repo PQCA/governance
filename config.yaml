@@ -19,13 +19,13 @@ teams:
   - ydoroz
 - name: wg-algorithms-members
   maintainers:
-  - Naomi-Wash
+  - christinaharter
 - name: wg-security-members
   maintainers:
-  - Naomi-Wash
+  - christinaharter
 - name: wg-tooling-members
   maintainers:
-  - Naomi-Wash
+  - christinaharter
   members:
   - n1ckl0sk0rtge
 - name: wiki-members

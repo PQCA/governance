@@ -1,0 +1,50 @@
+name: PQCA TAC Chair Nomination
+description: Nominate yourself or someone else from a PQCA member organization to become the Technical Advisory Council (TAC) Chair for the Post Quantum Cryptography Alliance (PQCA).
+title: 'TAC Chair Nomination'
+body:
+- type: markdown
+  attributes:
+    value: |
+      Please use this form to nominate yourself or someone else from a PQCA member organization to become the Technical Advisory Council (TAC) Chair. If you would like to nominate someone else, please make sure you have their consent.
+      
+      This representative will be elected by members of the technical steering committees (TSCs) of 
+      Technical Projects and qualified for nomination by each of the Governing Board and the
+      TAC. In the event of a vacancy, the Governing Board may appoint the candidate with the
+      next highest vote total in the most recent election to serve the remainder of the term
+- type: textarea
+  id: Full Name
+  attributes: 
+    label: Name
+    description: "Full name of the nominee"
+  validations:
+    required: true
+- type: textarea
+  id: organization
+  attributes: 
+    label: Organization
+    description: "PQCA Member Organization"
+  validations:
+    required: true
+- type: textarea
+  id: github
+  attributes: 
+    label: GitHub
+    description: "Please include your GitHub handle."
+- type: textarea
+  id: linkedin
+  attributes: 
+    label: LinkedIn
+    description: "Please include your LinkedIn profile."
+- type: textarea
+  id: bio
+  attributes: 
+    label: bio
+    description: "Please provide a short biography."
+- type: textarea
+  id: motivation
+  attributes: 
+    label: Candidate Statement
+    description: "Why do you want to serve as the Technical Advisory Council (TAC) Chair?"
+  validations:
+    required: true
+

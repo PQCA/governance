@@ -12,7 +12,7 @@ body:
       TAC. In the event of a vacancy, the Governing Board may appoint the candidate with the
       next highest vote total in the most recent election to serve the remainder of the term
 - type: textarea
-  id: Full Name
+  id: full-name
   attributes: 
     label: Name
     description: "Full name of the nominee"

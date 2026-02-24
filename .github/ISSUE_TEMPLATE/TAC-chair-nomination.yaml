@@ -7,10 +7,7 @@ body:
     value: |
       Please use this form to nominate yourself or someone else from a PQCA member organization to become the Technical Advisory Council (TAC) Chair. If you would like to nominate someone else, please make sure you have their consent.
       
-      This representative will be elected by members of the technical steering committees (TSCs) of 
-      Technical Projects and qualified for nomination by each of the Governing Board and the
-      TAC. In the event of a vacancy, the Governing Board may appoint the candidate with the
-      next highest vote total in the most recent election to serve the remainder of the term
+      This representative will be elected by members of the technical steering committees (TSCs) of Technical Projects and qualified for nomination by each of the Governing Board and the TAC. In the event of a vacancy, the Governing Board may appoint the candidate with the next highest vote total in the most recent election to serve the remainder of the term
 - type: textarea
   id: full-name
   attributes: 
@@ -22,7 +19,14 @@ body:
   id: organization
   attributes: 
     label: Organization
-    description: "PQCA Member Organization"
+    description: "Please add your PQCA Member Organization name. Note that the TAC Chair is only open to PQCA member organizations."
+  validations:
+    required: true
+- type: textarea
+  id: email
+  attributes: 
+    label: Business Email
+    description: "Please provide your business email to verify your eligibility to run."
   validations:
     required: true
 - type: textarea
@@ -38,12 +42,22 @@ body:
 - type: textarea
   id: bio
   attributes: 
-    label: bio
+    label: Candidate Biography
     description: "Please provide a short biography."
+      validations:
+    required: true
 - type: textarea
   id: motivation
   attributes: 
     label: Candidate Statement
-    description: "Why do you want to serve as the Technical Advisory Council (TAC) Chair?"
+    description: "Why do you want to serve as the Chair of the PQCA TAC? How do you aim to contribute to PQCA in a leadership role as the TAC Chair? (max. 300 words)."
   validations:
     required: true
+- type: textarea
+  id: meetings
+  attributes: 
+    label: TAC Meeting Attendance
+    description: "Can you commit to regularly attending TAC meetings?"
+  validations:
+    required: true
+    

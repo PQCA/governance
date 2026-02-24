@@ -35,17 +35,21 @@ body:
   attributes: 
     label: GitHub
     description: "Please include your GitHub handle."
+  validations:
+    required: true
 - type: textarea
   id: linkedin
   attributes: 
     label: LinkedIn
     description: "Please include your LinkedIn profile."
+  validations:
+    required: true
 - type: textarea
   id: bio
   attributes: 
     label: Biography
     description: "Please provide a short biography."
-      validations:
+  validations:
     required: true
 - type: textarea
   id: motivation

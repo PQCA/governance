@@ -62,7 +62,7 @@ body:
     description: "Can you commit to regularly attending biweekly TAC meetings?"
   validations:
     required: true
- - type: textarea
+- type: textarea
   id: governing
   attributes: 
     label: Governing Board Meeting Attendance

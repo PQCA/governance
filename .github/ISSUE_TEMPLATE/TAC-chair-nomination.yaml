@@ -59,7 +59,13 @@ body:
   id: meetings
   attributes: 
     label: TAC Meeting Attendance
-    description: "Can you commit to regularly attending TAC meetings?"
+    description: "Can you commit to regularly attending biweekly TAC meetings?"
   validations:
     required: true
-    
+ - type: textarea
+  id: governing-board
+  attributes: 
+    label: Governing Board Meeting Attendance
+    description: "Can you commit to regularly attending monthly governing board meetings?"
+  validations:
+    required: true   

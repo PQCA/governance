@@ -5,7 +5,8 @@ labels: [TAC Chair Nomination]
 body:
 - type: markdown
   attributes:
-    value: Please use this form to nominate yourself or someone else from a PQCA member organization to become the Technical Advisory Council (TAC) Chair. If you would like to nominate someone else, please make sure you have their consent.
+    value: "Please use this form to nominate yourself or someone else from a PQCA member organization to become the Technical Advisory Council (TAC) Chair. If you would like to nominate someone else, please make sure you have their consent."
+- type: textarea
   id: full-name
   attributes: 
     label: Name

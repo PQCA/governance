@@ -1,13 +1,12 @@
 name: PQCA TAC Chair Nomination
 description: Nominate yourself or someone else from a PQCA member organization to become the Technical Advisory Council (TAC) Chair for the Post Quantum Cryptography Alliance (PQCA).
 title: 'TAC Chair Nomination 2026'
-labels: ["TAC Chair Nomination"]
+labels: [TAC Chair Nomination]
 body:
 - type: markdown
   attributes:
     value: |
       Please use this form to nominate yourself or someone else from a PQCA member organization to become the Technical Advisory Council (TAC) Chair. If you would like to nominate someone else, please make sure you have their consent.
-      
   id: full-name
   attributes: 
     label: Name

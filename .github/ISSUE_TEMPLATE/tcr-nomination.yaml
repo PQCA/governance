@@ -12,29 +12,77 @@ body:
       Technical Projects and qualified for nomination by each of the Governing Board and the
       TAC. In the event of a vacancy, the Governing Board may appoint the candidate with the
       next highest vote total in the most recent election to serve the remainder of the term
+
+
+name: PQCA Technical Community Rep Nomination
+description: Nominate yourself to become the Technical Community Representative (TCR) for the Post Quantum Cryptography Alliance (PQCA).
+title: 'TCR Nomination 2026'
+labels: [TCR Nomination]
+body:
+- type: markdown
+  attributes:
+    value: "Please use this form to nominate yourself from a PQCA member organization to become the Technical Community Representative (TCR). If you would like to nominate someone else, please make sure you have their consent. This representative will be elected by members of the technical steering committees (TSCs) of Technical Projects and qualified for nomination by each of the Governing Board and the TAC. In the event of a vacancy, the Governing Board may appoint the candidate with the next highest vote total in the most recent election to serve the remainder of the term."
 - type: textarea
-  id: Name
+  id: full-name
   attributes: 
     label: Name
-    description: "Full name and GitHub handle of the nominee"
+    description: "Full name of the nominee"
   validations:
     required: true
 - type: textarea
-  id: Organization
+  id: organization
   attributes: 
     label: Organization
-    description: "Organizational Affiliation"
+    description: "Please add your Organization name. Note that the TCR is open to all members of the PQCA community and does not need to be from a member organization."
   validations:
     required: true
 - type: textarea
-  id: social
+  id: email
   attributes: 
-    label: Social Handles
-    description: "Please include your LinkedIn profile or other public facing online presences"
+    label: Business Email
+    description: "Please provide your business email."
+  validations:
+    required: true
+- type: textarea
+  id: github
+  attributes: 
+    label: GitHub
+    description: "Please include your GitHub handle."
+  validations:
+    required: true
+- type: textarea
+  id: linkedin
+  attributes: 
+    label: LinkedIn
+    description: "Please include your LinkedIn profile."
+  validations:
+    required: true
+- type: textarea
+  id: bio
+  attributes: 
+    label: Biography
+    description: "Please provide a short biography."
+  validations:
+    required: true
 - type: textarea
   id: motivation
   attributes: 
-    label: Motivational & Additional Information
-    description: "Why do you want to serve as the Technical Community Representative (TCR)?"
+    label: Candidate Statement
+    description: "Why do you want to serve as the Technical Community Representative? How do you aim to contribute to PQCA in a leadership role as the TCR? (max. 300 words)"
   validations:
     required: true
+- type: textarea
+  id: meetings
+  attributes: 
+    label: TAC Meeting Attendance
+    description: "Can you commit to regularly attending biweekly TAC meetings?"
+  validations:
+    required: true
+- type: textarea
+  id: governing-board
+  attributes: 
+    label: Governing Board Meeting Attendance
+    description: "Can you commit to regularly attending monthly Governing Board meetings?"
+  validations:
+    required: true
+    

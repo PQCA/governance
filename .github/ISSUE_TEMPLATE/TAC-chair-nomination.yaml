@@ -63,9 +63,9 @@ body:
   validations:
     required: true
  - type: textarea
-  id: governing-board
+  id: governing
   attributes: 
     label: Governing Board Meeting Attendance
     description: "Can you commit to regularly attending monthly governing board meetings?"
   validations:
-    required: true   
+    required: true

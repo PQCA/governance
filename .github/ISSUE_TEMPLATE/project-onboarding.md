@@ -19,7 +19,7 @@ assignees: ''
 
 This is an issue created to help onboard your project into PQCA after the TAC has voted to accept your project.
 
-This document lists tasks that maintainers need to do to onboard a new project to PQCA. PQCA staff are here and happy to help with these. Please reach out to [projects@pqca.org](mailto:projects@pqca.org) with any questions.
+This document lists tasks that maintainers need to do to onboard a new project to PQCA. PQCA staff are here and happy to help with these. Please reach out to [support@pqca.org](mailto:support@pqca.org) with any questions.
 
 Please track your progress by using "Quote reply" to create your own copy of this checklist in the issue, so that you can update the status as you finish items.
 
@@ -50,8 +50,5 @@ Please work with PQCA staff to:
 
 - [ ] Form the Technical Steering Committee (TSC).
    -  [ ] Review signed project charter to review TSC requirements, responsibilities and voting guidelines.
-   -  [ ] Send the name(s) and email(s) of all TSC members to PQCA staff via email at [projects@pqca.org](mailto:projects@pqca.org) .
+   -  [ ] Send the name(s) and email(s) of all TSC members to PQCA staff via email at [support@pqca.org](mailto:support@pqca.org) .
    - [ ] **Optional, but highly recommended:** Work with PQCA staff to set up recurring TSC calls. Confirm date/time and meeting cadence. 
-
-
-

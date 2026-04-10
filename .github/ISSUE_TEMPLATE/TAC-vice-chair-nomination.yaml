@@ -1,0 +1,72 @@
+
+name: PQCA TAC Vice Chair Nomination
+description: Nominate yourself or someone else from a PQCA member organization to become the Technical Advisory Council (TAC) Vice Chair for the Post Quantum Cryptography Alliance (PQCA).
+title: 'TAC Vice Chair Nomination 2026'
+labels: [TAC Vice Chair Nomination]
+body:
+- type: markdown
+  attributes:
+    value: "Please use this form to nominate yourself or someone else from a PQCA member organization to become the Technical Advisory Council (TAC) Vice Chair. If you would like to nominate someone else, please make sure you have their consent."
+- type: textarea
+  id: full-name
+  attributes: 
+    label: Name
+    description: "Full name of the nominee"
+  validations:
+    required: true
+- type: textarea
+  id: organization
+  attributes: 
+    label: Organization
+    description: "Please add your PQCA Member Organization name. Note that the TAC Vice Chair is only open to PQCA member organizations."
+  validations:
+    required: true
+- type: textarea
+  id: email
+  attributes: 
+    label: Business Email
+    description: "Please provide your business email to verify your eligibility to run."
+  validations:
+    required: true
+- type: textarea
+  id: github
+  attributes: 
+    label: GitHub
+    description: "Please include your GitHub handle."
+  validations:
+    required: true
+- type: textarea
+  id: linkedin
+  attributes: 
+    label: LinkedIn
+    description: "Please include your LinkedIn profile."
+  validations:
+    required: true
+- type: textarea
+  id: bio
+  attributes: 
+    label: Biography
+    description: "Please provide a short biography."
+  validations:
+    required: true
+- type: textarea
+  id: motivation
+  attributes: 
+    label: Candidate Statement
+    description: "Why do you want to serve as the Vice Chair of the PQCA TAC? How do you aim to contribute to PQCA in a leadership role as the TAC Vice Chair? (max. 300 words)."
+  validations:
+    required: true
+- type: textarea
+  id: meetings
+  attributes: 
+    label: TAC Meeting Attendance
+    description: "Can you commit to regularly attending biweekly TAC meetings?"
+  validations:
+    required: true
+- type: textarea
+  id: governing
+  attributes: 
+    label: Governing Board Meeting Attendance
+    description: "Can you commit to attending governing board meetings to represent the TAC if the TAC Chair is unavailable?"
+  validations:
+    required: true

@@ -3,6 +3,7 @@ name: PQCA TAC Vice Chair Nomination
 description: Nominate yourself or someone else from a PQCA member organization to become the Technical Advisory Council (TAC) Vice Chair for the Post Quantum Cryptography Alliance (PQCA).
 title: 'TAC Vice Chair Nomination 2026'
 labels: [TAC Vice Chair Nomination]
+assignees: 'christinaharter'
 body:
 - type: markdown
   attributes:

@@ -1,13 +1,13 @@
 
 name: PQCA TAC Vice Chair Nomination
-description: Nominate yourself or someone else from a PQCA member organization to become the Technical Advisory Council (TAC) Vice Chair for the Post Quantum Cryptography Alliance (PQCA).
+description: Nominate yourself or someone else to become the Technical Advisory Council (TAC) Vice Chair for the Post Quantum Cryptography Alliance (PQCA).
 title: 'TAC Vice Chair Nomination 2026'
 labels: [TAC Vice Chair Nomination]
 assignees: 'christinaharter'
 body:
 - type: markdown
   attributes:
-    value: "Please use this form to nominate yourself or someone else from a PQCA member organization to become the Technical Advisory Council (TAC) Vice Chair. If you would like to nominate someone else, please make sure you have their consent."
+    value: "Please use this form to nominate yourself or someone else to become the Technical Advisory Council (TAC) Vice Chair. If you would like to nominate someone else, please make sure you have their consent."
 - type: textarea
   id: full-name
   attributes: 
@@ -19,14 +19,14 @@ body:
   id: organization
   attributes: 
     label: Organization
-    description: "Please add your PQCA Member Organization name. Note that the TAC Vice Chair is only open to PQCA member organizations."
+    description: "Please add your Organization name."
   validations:
     required: true
 - type: textarea
   id: email
   attributes: 
     label: Business Email
-    description: "Please provide your business email to verify your eligibility to run."
+    description: "Please provide your business email."
   validations:
     required: true
 - type: textarea
@@ -61,7 +61,7 @@ body:
   id: meetings
   attributes: 
     label: TAC Meeting Attendance
-    description: "Can you commit to regularly attending biweekly TAC meetings?"
+    description: "Have you attended PQCA TAC Meetings before? And can you commit to regularly attending biweekly TAC meetings? They are currently scheduled at 7:00am Pacific Time every other Wednesday."
   validations:
     required: true
 - type: textarea

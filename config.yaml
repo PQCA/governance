@@ -8,15 +8,14 @@ teams:
   - christinaharter
 - name: tac
   maintainers:
-  - brian-jarvis-aws
-  members:
   - AdityaKoranga
-  - SWilson4
+  members:
+  - brian-jarvis-aws
+  - mkannwischer
   - ashman-p
   - maximilien
-  - planetf1
   - sophieschmieg
-  - ydoroz
+  - san-zrl
 - name: wg-algorithms-members
   maintainers:
   - christinaharter
@@ -30,13 +29,13 @@ teams:
   - n1ckl0sk0rtge
 - name: wiki-members
   maintainers:
-  - brian-jarvis-aws
-  members:
   - AdityaKoranga
+  members:
+  - brian-jarvis-aws
   - christinaharter
   - mkannwischer
   - n1ckl0sk0rtge
-  - praveksharma
+  - ashman-p
 repositories:
 - name: .github
   teams:

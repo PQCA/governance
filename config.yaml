@@ -22,6 +22,9 @@ teams:
 - name: wg-readiness-tracking-members
   maintainers:
   - aww-aww
+  members:
+  - AdityaKoranga
+  - newspeedtech
 - name: wg-security-members
   maintainers:
   - christinaharter
